@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary5\HR_Project_Group3_Domain.csproj" />
+    <ProjectReference Include="..\ClassLibrary5\HR_Project_Group3.Domain.csproj" />
   </ItemGroup>
 
 </Project>
