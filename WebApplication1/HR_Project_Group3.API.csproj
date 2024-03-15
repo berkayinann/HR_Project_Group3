@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary4\HR_Project_Group3_Persistence.csproj" />
+    <ProjectReference Include="..\ClassLibrary4\HR_Project_Group3.Persistence.csproj" />
   </ItemGroup>
 
   <ItemGroup>
